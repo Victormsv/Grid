@@ -1,0 +1,39 @@
+body {
+    background: url(https://www.lironboylston.com/wp-content/uploads/2021/03/GordonRamsay.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    overflow: unset;
+}
+h1 {
+    color: rgb(192, 176, 152);
+    font-size: 100px; 
+    line-height: 1;
+    text-align: center;
+    
+    
+}
+a{
+    color: rgb(192, 176, 152);
+    
+    text-decoration: none; 
+}
+h2 {
+    color: rgb(8, 8, 8);
+    -webkit-text-stroke: 0.3px rgb(0, 0, 0);
+}
+
+li a {
+    color: rgb(192, 176, 152);
+    font-size: 16px;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.72);
+}
+#gordon {
+    color:rgb(201, 127, 15) ;
+    font-size: 27px;
+    -webkit-text-stroke: 0.3px rgb(0, 0, 0);
+} 
+
+
+  
